@@ -1,0 +1,30 @@
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.exe
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.deps.json
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.runtimeconfig.json
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.pdb
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\refint\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.pdb
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.genruntimeconfig.cache
+C:\Users\Dudu\Desktop\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\ref\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.exe
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.deps.json
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.runtimeconfig.json
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\bin\Debug\net7.0\CalculadoraProfessor.pdb
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\refint\CalculadoraProfessor.dll
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.pdb
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\CalculadoraProfessor.genruntimeconfig.cache
+C:\Users\Dudu\Desktop\Una 2023\A3\CalculadoraProfessor\CalculadoraProfessor\obj\Debug\net7.0\ref\CalculadoraProfessor.dll
